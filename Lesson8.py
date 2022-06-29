@@ -1,4 +1,4 @@
-import math
-dir(math)
+#import math
+#dir(math)
 
 
